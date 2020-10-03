@@ -2,8 +2,8 @@
 
 ### Day 1: October 3, 2020
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Learned about variables and data types in Python.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** I like the simplicity of Python syntax so far. Learning how to flip the switch between coding in C and coding in Python should be interesting. I am looking forward to learning about loops and conditional statements in Python.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** None for today!
