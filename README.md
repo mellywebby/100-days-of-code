@@ -3,7 +3,7 @@
 * [Log - click here to see my progress](log.md)
 
 #### Start Date
-October 1st, 2020.
+October 3rd, 2020.
 
 ## Rules
 1. I will update the (Log)[log.md] with the day's progress.
