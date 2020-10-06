@@ -15,3 +15,9 @@
 **Thoughts:** It's amazing how easy it is to read in data from a file in Python and create a list that contains the data. I'm already starting to see why it's widely used for data analysis. I learned how to use the reader and list command, but I would like to learn more about how they actually work. I'll do that tomorrow.
 
 **Link to work:** None for today!
+
+### Day 3: October 5, 2020
+
+**Today's Progress**: Practiced working with variables and data types to get more familiar with the syntax. I learned append() for lists, for loops, and how to use range().
+
+**Thoughts:** I think I'm getting better at taking concise notes. At first, I was writing almost everything down, but understanding the information and writing practice codes are more effective than writing a book.
