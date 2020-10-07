@@ -21,3 +21,9 @@
 **Today's Progress**: Practiced working with variables and data types to get more familiar with the syntax. I learned append() for lists, for loops, and how to use range().
 
 **Thoughts:** I think I'm getting better at taking concise notes. At first, I was writing almost everything down, but understanding the information and writing practice codes are more effective than writing a book.
+
+### Day 4: October 6, 2020
+
+**Today's Progress**: Practiced working with lists and for loops. Wrote a nested for loop in Python for the first time.
+
+**Thoughts:** Slowly but surely warming up to Python syntax. Honestly, today's hour wasn't very productive considering I was already half-asleep at the start of the hour. I was making a lot of silly mistakes. I'm going to start coding in the mornings/afternoons as frequently as possible from here on out.
