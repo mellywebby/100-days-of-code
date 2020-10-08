@@ -27,3 +27,9 @@
 **Today's Progress**: Practiced working with lists and for loops. Wrote a nested for loop in Python for the first time.
 
 **Thoughts:** Slowly but surely warming up to Python syntax. Honestly, today's hour wasn't very productive considering I was already half-asleep at the start of the hour. I was making a lot of silly mistakes. I'm going to start coding in the mornings/afternoons as frequently as possible from here on out.
+
+### Day 5: October 7, 2020
+
+**Today's Progress**: Focused on conditional statements. Learned Python syntax for if statements and logical operators.
+
+**Thoughts:** I used to find it so overwhelming that software engineers were expected to know so many different programming languages, but seeing now how the fundamental ideas are the same between C and Python (so far), the idea of knowing multiple programming languages seems more attainable. I am looking forward to setting up VS Code to run Python code,finishing up conditional statements, and learning about dictionaries tomorrow.
