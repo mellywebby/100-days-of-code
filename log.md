@@ -32,4 +32,10 @@
 
 **Today's Progress**: Focused on conditional statements. Learned Python syntax for if statements and logical operators.
 
-**Thoughts:** I used to find it so overwhelming that software engineers were expected to know so many different programming languages, but seeing now how the fundamental ideas are the same between C and Python (so far), the idea of knowing multiple programming languages seems more attainable. I am looking forward to setting up VS Code to run Python code,finishing up conditional statements, and learning about dictionaries tomorrow.
+**Thoughts:** I used to find it so overwhelming that software engineers were expected to know so many different programming languages, but seeing now how the fundamental ideas are the same between C and Python (so far), the idea of knowing multiple programming languages seems more attainable. I am looking forward to setting up VS Code to run Python code, finishing up conditional statements, and learning about dictionaries tomorrow.
+
+### Day 6: October 8, 2020
+
+**Today's Progress**: Configured VS Code to run Python (after a bit of a struggle), finished up conditional statements, and started learning about dictionaries.
+
+**Thoughts:** First of all, dictionaries are super cool. Having a uniquely defined index is already proving to be very useful in the practice problems that I completed today. Secondly, I acknowledge that I still have a whole lot to learn, but right now I am focused on enjoying the process. I'm feeling really good about this today.
