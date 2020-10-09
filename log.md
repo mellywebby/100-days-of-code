@@ -39,3 +39,9 @@
 **Today's Progress**: Configured VS Code to run Python (after a bit of a struggle), finished up conditional statements, and started learning about dictionaries.
 
 **Thoughts:** First of all, dictionaries are super cool. Having a uniquely defined index is already proving to be very useful in the practice problems that I completed today. Secondly, I acknowledge that I still have a whole lot to learn, but right now I am focused on enjoying the process. I'm feeling really good about this today.
+
+### Day 7: October 9, 2020
+
+**Today's Progress**: Today I worked with a CSV file that contained the top 100 names given to newborns in Scotland from 1974 to 2019. I practiced opening the file and creating a dictionary with year as the indexes and the most popular boy name as the values. I also learned how to use the in operator to populate a dictionary.
+
+**Thoughts:** Downloading a real data set and using what I've learned in the past week to extract information was exhilarating. It was my first time creating a meaningful python program outside of the course. 
