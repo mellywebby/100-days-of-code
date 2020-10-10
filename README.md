@@ -6,8 +6,8 @@
 October 3rd, 2020.
 
 ## Rules
-1. I will update the (Log)[log.md] with the day's progress.
-2. I will spend time completing online courses and working on real projects.
+1. I will update the [Log](log.md) with the day's progress.
+2. I will spend time completing online courses, solving coding challenges, and working on real projects.
 3. I will push code to GitHub so that anyone can see my progress.
 
 ## Goals
