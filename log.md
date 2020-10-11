@@ -51,3 +51,9 @@
 **Today's Progress**: Learned how to use a dictionary to count the frequencies in a data set and completed related practice problems. I also learned the syntax for defining and calling a function.
 
 **Thoughts:** Today I found myself regularly glancing at upcoming topics in the course and feeling like I was behind. This led me to spend more time working through the course than I had originally planned which took time away from other things that I needed to get done today. During my lunch break, I started reading Atomic Habits by James Clear which reminded me that a little progress everyday will surely lead me to my goals. It's nice knowing that the next time that I feel like this, whether it's on day 10 or day 80, I can look back at this log and remind myself of just how far I have come.
+
+### Day 9: October 11, 2020
+
+**Today's Progress**: Practiced defining and calling functions to solve various problems.
+
+**Thoughts:** I enjoy comparing my code to the provided solutions because I am able to see other (sometimes more simpler) ways of completing the same problem. From that I'm learning to see problems from different points of view.
