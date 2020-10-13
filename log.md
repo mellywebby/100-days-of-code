@@ -57,3 +57,9 @@
 **Today's Progress**: Practiced defining and calling functions to solve various problems.
 
 **Thoughts:** I enjoy comparing my code to the provided solutions because I am able to see other (sometimes more simpler) ways of completing the same problem. From that I'm learning to see problems from different points of view.
+
+### Day 10: October 12, 2020
+
+**Today's Progress**: Learned a bit more about functions. Today I was introduced to default arguments, returning multiple values from a function, and consequently, tuples. I also read the documentation for open() and round().
+
+**Thoughts:** We have officially entered double-digit days! Woo-hoo! I think the next milestone I'll celebrate is completing day 25. Reading the documentation for open() after learning about default arguments helped me solidify the concept. Returning multiple values from a function isn't possible (at least not directly) in C, so that's another way in which the two languages differ. In other news, I came up with an idea for a C program that I can work on in addition to learning Python. I'll share more about it tomorrow.
