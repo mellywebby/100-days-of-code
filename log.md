@@ -63,3 +63,9 @@
 **Today's Progress**: Learned a bit more about functions. Today I was introduced to default arguments, returning multiple values from a function, and consequently, tuples. I also read the documentation for open() and round().
 
 **Thoughts:** We have officially entered double-digit days! Woo-hoo! I think the next milestone I'll celebrate is completing day 25. Reading the documentation for open() after learning about default arguments helped me solidify the concept. Returning multiple values from a function isn't possible (at least not directly) in C, so that's another way in which the two languages differ. In other news, I came up with an idea for a C program that I can work on in addition to learning Python. I'll share more about it tomorrow.
+
+### Day 11: October 13, 2020
+
+**Today's Progress**: Finished up functions by reviewing function scope and spent a bit of time working on coding problems to reinforce what I've learned the past few days. Today I learned that functions without a return statement return a None value.
+
+**Thoughts:** It felt nice to finish learning about functions. I plan on reviewing the concepts I've learned so far by exploring code as it comes to me in VS Code tomorrow. The C project I mentioned yesterday is in the planning phase. When it's complete, it will be a budgeting console application that will allow the user to create, read, update, and delete monthly budgets. I had difficulty falling asleep the other night because I kept exploring different ideas I had for the project, so you could say that I'm pretty excited about it.
