@@ -74,4 +74,4 @@
 
 **Today's Progress**: Started learning the basics of Jupyter Notebook: creating and running cells, command mode vs edit mode, and some keyboard shortcuts.
 
-**Thoughts:** I've read that Jupyter Notebook is a great tool for data visualization, so I'm certainly looking forward to learning more about its capabiities. Doing so is listed as one of my goals for this 100 day challenge, so only time will tell what I'll be able to accomplish. Stay tuned.
+**Thoughts:** I've read that Jupyter Notebook is a great tool for data visualization, so I'm certainly looking forward to learning more about its capabilities. Doing so is listed as one of my goals for this 100 day challenge, so only time will tell what I'll be able to accomplish.
