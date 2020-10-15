@@ -69,3 +69,9 @@
 **Today's Progress**: Finished up functions by reviewing function scope and spent a bit of time working on coding problems to reinforce what I've learned the past few days. Today I learned that functions without a return statement return a None value.
 
 **Thoughts:** It felt nice to finish learning about functions. I plan on reviewing the concepts I've learned so far by exploring code as it comes to me in VS Code tomorrow. The C project I mentioned yesterday is in the planning phase. When it's complete, it will be a budgeting console application that will allow the user to create, read, update, and delete monthly budgets. I had difficulty falling asleep the other night because I kept exploring different ideas I had for the project, so you could say that I'm pretty excited about it. I'll provide a link to the repo once I get it up and running.
+
+### Day 12: October 14, 2020
+
+**Today's Progress**: Started learning the basics of Jupyter Notebook: creating and running cells, command mode vs edit mode, and some keyboard shortcuts.
+
+**Thoughts:** I've read that Jupyter Notebook is a great tool for data visualization, so I'm certainly looking forward to learning more about its capabiities. Doing so is listed as one of my goals for this 100 day challenge, so only time will tell what I'll be able to accomplish. Stay tuned.
