@@ -75,3 +75,9 @@
 **Today's Progress**: Started learning the basics of Jupyter Notebook: creating and running cells, command mode vs edit mode, and some keyboard shortcuts.
 
 **Thoughts:** I've read that Jupyter Notebook is a great tool for data visualization, so I'm certainly looking forward to learning more about its capabilities. Doing so is listed as one of my goals for this 100 day challenge, so only time will tell what I'll be able to accomplish.
+
+### Day 13: October 15, 2020
+
+**Today's Progress**: Solved practice problems involving lists.
+
+**Thoughts:** I wasn't aware that you could specify an increment between each index when list slicing. Learning that allowed me to simplify my code as I worked through problems today. Python has a lot of very useful built-in functions.
