@@ -81,3 +81,9 @@
 **Today's Progress**: Solved practice problems involving lists.
 
 **Thoughts:** I wasn't aware that you could specify an increment between each index when list slicing. Learning that allowed me to simplify my code as I worked through problems today. Python has a lot of very useful built-in functions.
+
+### Day 14: October 16, 2020
+
+**Today's Progress**: Learned about state and hidden state in Jupyter Notebook, read up on markdown syntax, and created some markdown cells.
+
+**Thoughts:** I also did some more planning for my C project, EachCent. I really want to make sure that I plan out the structure of the project well enough so new features can be implemented with ease. 
