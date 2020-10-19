@@ -87,3 +87,15 @@
 **Today's Progress**: Learned about state and hidden state in Jupyter Notebook, read up on markdown syntax, and created some markdown cells.
 
 **Thoughts:** I also did some more planning for my C project, EachCent. I really want to make sure that I plan out the structure of the project well enough so new features can be implemented with ease. 
+
+### Day 15: October 17, 2020
+
+**Today's Progress**: Installed Jupyter Notebook and learned a bit more about it.
+
+**Thoughts:** I was taken aback when I launched Jupyter Notebook and saw all of my personal computer files there. After some googling, I realized that I just had to launch the notebook from a different folder. I didn't complete the first course today like I had originally planned, so I'm feeling a little bit disapointed.
+
+### Day 16: October 18, 2020
+
+**Today's Progress**: Started working on a guided project using Jupyter Notebook. The project is to analyze Apple Store and Google Play Store data to determine the types of apps that generate the most ad revenue.
+
+**Thoughts:** It feels great to be working with thousands of rows of data. I'm starting to find large data sets less intimidating as I progress through this course. I am completing the Data Analyst in Python path on Dataquest. I failed to mentioned this earlier. Better late than never.
