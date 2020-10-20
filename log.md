@@ -99,3 +99,11 @@
 **Today's Progress**: Started working on a guided project using Jupyter Notebook. The project is to analyze Apple Store and Google Play Store data to determine the types of apps that generate the most ad revenue.
 
 **Thoughts:** It feels great to be working with thousands of rows of data. I'm starting to find large data sets less intimidating as I progress through this course. I am completing the Data Analyst in Python path on Dataquest. I failed to mentioned this earlier. Better late than never.
+
+### Day 17: October 19, 2020
+
+**Today's Progress**: Did more planning for EachCent project and made initial commit. Continued to work on guided project by deleting incorrect data and identifying duplicate entries.
+
+**Thoughts:** I'm super happy to have my EachCent repo up and running on GitHub. I only typed up the structs that the program will use, but it still feels great to have material evidence of all of the brainstorming that I've been doing over the past few days.
+
+**Link to work:** [EachCent repository](https://github.com/mellywebby/EachCent)
