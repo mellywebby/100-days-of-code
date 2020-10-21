@@ -113,3 +113,9 @@
 **Today's Progress**: Finished a guided project and read an informational article about how to format Jupyter Notebooks.
 
 **Thoughts:** Overall, I enjoyed completing my first guided project. I learned a few new functions like replace() and ord(). The latter was used to identify the apps that were in English, since those were the apps that we were interested in learning more about.
+
+### Day 19: October 21, 2020
+
+**Today's Progress**: Started my second course, *Python for Data Science: Intermediate*, by learning about data cleaning. More specifically, I learned about the method title(), used replace() a bit more, and developed an understanding of tracebacks and how to handle errors while cleaning data.
+
+**Thoughts:** I know that data analysts spend more time cleaning data than on analyzing data, so data cleaning is a very important skill for me to acquire. I also recognize that cleaning data incorrectly can lead to terrible outcomes, so I'm very excited to learn more about this particular topic.
