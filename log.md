@@ -107,3 +107,9 @@
 **Thoughts:** I'm super happy to have my EachCent repo up and running on GitHub. I only typed up the structs that the program will use, but it still feels great to have material evidence of all of the brainstorming that I've been doing over the past few days.
 
 **Link to work:** [EachCent](https://github.com/mellywebby/EachCent/commit/ba3c6d325a7e451f9a46b2b5a141f20ba677bd0a)
+
+### Day 18: October 20, 2020
+
+**Today's Progress**: Finished a guided project and read an informational article about how to format Jupyter Notebooks.
+
+**Thoughts:** Overall, I enjoyed completing my first guided project. I learned a few new functions like replace() and ord(). The latter was used to identify the apps that were in English, since those were the apps that we were interested in learning more about.
