@@ -119,3 +119,9 @@
 **Today's Progress**: Started my second course, *Python for Data Science: Intermediate*, by learning about data cleaning. More specifically, I learned about the method title(), used replace() a bit more, and developed an understanding of tracebacks and how to handle errors while cleaning data.
 
 **Thoughts:** I know that data analysts spend more time cleaning data than on analyzing data, so data cleaning is a very important skill for me to acquire. I also recognize that cleaning data incorrectly can lead to terrible outcomes, so I'm very excited to learn more about this particular topic.
+
+### Day 20: October 22, 2020
+
+**Today's Progress**: Used the split() method to convert a date range to calculate the average date. I learned that strings and lists are similar in Python, so we can use indexing and slicing on strings just as we have on lists.
+
+**Thoughts:** I'm feeling alright. Not much to say today.
