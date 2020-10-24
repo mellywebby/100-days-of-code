@@ -125,3 +125,9 @@
 **Today's Progress**: Used the split() method to convert a date range to calculate the average date. I learned that strings and lists are similar in Python, so we can use indexing and slicing on strings just as we have on lists.
 
 **Thoughts:** I'm feeling alright. Not much to say today.
+
+### Day 21: October 23, 2020
+
+**Today's Progress**: Learned and practiced using format() and items().
+
+**Thoughts:** I like that the format() method lets us use named arguments because that makes the code more readable. 
