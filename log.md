@@ -131,3 +131,9 @@
 **Today's Progress**: Learned and practiced using format() and items().
 
 **Thoughts:** I like that the format() method lets us use named arguments because that makes the code more readable. 
+
+### Day 22: October 24, 2020
+
+**Today's Progress**: Started learning about how classes and objects are handled in Python.
+
+**Thoughts:** I remember learning about classes and objects when I learned Java a while back, but I don't really remember any of the syntax. I do remember that I enjoyed working with objects, so I'm looking forward to doing the same in Python. I read that data analyst rarely create classes, but I'm still excited to learn more about how they work because I want to use Python outside of data analytics to tackle passion projects.
