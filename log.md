@@ -137,3 +137,9 @@
 **Today's Progress**: Started learning about how classes and objects are handled in Python.
 
 **Thoughts:** I remember learning about classes and objects when I learned Java a while back, but I don't really remember any of the syntax. I do remember that I enjoyed working with objects, so I'm looking forward to doing the same in Python. I read that data analyst rarely create classes, but I'm still excited to learn more about how they work because I want to use Python outside of data analytics to tackle passion projects.
+
+### Day 23: October 25, 2020
+
+**Today's Progress**: Learned about the init method, attributes, and the various ways to import definitions from a module.
+
+**Thoughts:** I am enjoying learning new things about Python each day! Now that I've covered a lot of the fundamentals of Python, this week I'm going to dedicate some more time towards completing practice problems outside of Dataquest. Solving coding problems is very rewarding, so I'm excited about what this week of practice and continued learning will bring!
