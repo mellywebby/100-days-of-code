@@ -149,3 +149,5 @@
 **Today's Progress**: Completed some Python coding problems on CodingBat. Added some more functionality to EachCent, including how to process creating a new budget based on user input.
 
 **Thoughts:** I honestly feel like I could spend hours working on EachCent. It's fun being creative and seeing my ideas come to life in the console. I keep on coming up with new ideas, but I plan on saving the more complex ones for later. I want to get the application running and then make adjustments and add on more features as I see fit. Doing so will force me to use branches on Git which I don't have a lot of experience with. Fun stuff!
+
+**Link to work:** [EachCent](https://github.com/mellywebby/EachCent/commit/23d56797cca06ea022ff3268bd3d6608011dcbd9#diff-d5390402d1ecfd9b23b8b7dc2d789324ffa9bb9962bbd3c300d78fa35ffcaecf)
