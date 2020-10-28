@@ -151,3 +151,9 @@
 **Thoughts:** I honestly feel like I could spend hours working on EachCent. It's fun being creative and seeing my ideas come to life in the console. I keep on coming up with new ideas, but I plan on saving the more complex ones for later. I want to get the application running and then make adjustments and add on more features as I see fit. Doing so will force me to use branches on Git which I don't have a lot of experience with. Fun stuff!
 
 **Link to work:** [EachCent](https://github.com/mellywebby/EachCent/commit/23d56797cca06ea022ff3268bd3d6608011dcbd9#diff-d5390402d1ecfd9b23b8b7dc2d789324ffa9bb9962bbd3c300d78fa35ffcaecf)
+
+### Day 25: October 27, 2020
+
+**Today's Progress**: Solved more CodingBat problems and was introduced to the datetime class in Python.
+
+**Thoughts:** This challenge is officially 25% complete! I don't feel as accomplished as I thought I would on the 25th day. I have learned a lot, but I'm not where I thought I would be at this point. This is because I have been going with the flow and not really working with a sense of urgency. Work expands to fill the time that you give it, so this has definitely been a negative thing for me. Luckily, I have acknowledged this and I have decided to stick to a weekly learning plan to push me to work at a quicker pace! 
