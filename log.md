@@ -157,3 +157,11 @@
 **Today's Progress**: Solved more CodingBat problems and was introduced to the datetime class in Python.
 
 **Thoughts:** This challenge is officially 25% complete! I don't feel as accomplished as I thought I would on the 25th day. I have learned a lot, but I'm not where I thought I would be at this point. This is because I have been going with the flow and not really working with a sense of urgency. Work expands to fill the time that you give it, so this has definitely been a negative thing for me. Luckily, I have acknowledged this and I have decided to stick to a weekly learning plan to push me to work at a quicker pace! 
+
+### Day 26: October 28, 2020
+
+**Today's Progress**: Created the insertBudget() function for EachCent. This function will be called whenever the user chooses to create a new budget. Budgets are stored as nodes in a linked list that is sorted by year and month.
+
+**Thoughts:** I'm going to have to test out different user inputs and make sure that the budgets are being stored correctly. Once I do that, I'll tweak the output formatting to make it look cleaner and continue to add more functionality to the code!
+
+**Link to work:** [EachCent](https://github.com/mellywebby/EachCent/commit/3e79b257ed26d8079bc698fadf43837929a8c1fb#diff-d5390402d1ecfd9b23b8b7dc2d789324ffa9bb9962bbd3c300d78fa35ffcaecf)
