@@ -165,3 +165,11 @@
 **Thoughts:** I'm going to have to test out different user inputs and make sure that the budgets are being stored correctly. Once I do that, I'll tweak the output formatting to make it look cleaner and continue to add more functionality to the code!
 
 **Link to work:** [EachCent](https://github.com/mellywebby/EachCent/commit/3e79b257ed26d8079bc698fadf43837929a8c1fb#diff-d5390402d1ecfd9b23b8b7dc2d789324ffa9bb9962bbd3c300d78fa35ffcaecf)
+
+### Day 27: October 29, 2020
+
+**Today's Progress**: Created the getBudget() function for EachCent. 
+
+**Thoughts:** After such a long day, I had a difficult time trying to focus on code for an hour. Didn't really get anything done, but progress is still progress?
+
+**Link to work:** [EachCent](https://github.com/mellywebby/EachCent/commit/2aad0c24bd4dad56eb06411027d2b9bd0b298ef1#diff-d5390402d1ecfd9b23b8b7dc2d789324ffa9bb9962bbd3c300d78fa35ffcaecf)
