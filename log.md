@@ -173,3 +173,9 @@
 **Thoughts:** After such a long day, I had a difficult time trying to focus on code for an hour. Didn't really get anything done, but progress is still progress?
 
 **Link to work:** [EachCent](https://github.com/mellywebby/EachCent/commit/2aad0c24bd4dad56eb06411027d2b9bd0b298ef1#diff-d5390402d1ecfd9b23b8b7dc2d789324ffa9bb9962bbd3c300d78fa35ffcaecf)
+
+### Day 28: October 31, 2020
+
+**Today's Progress**: Completed problems involving strings on CodingBat.
+
+**Thoughts:** It was nice to get some more practice coding in Python.
